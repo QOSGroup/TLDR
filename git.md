@@ -13,3 +13,12 @@
 ### 切换到远程分支
 
 > git checkout -b develop origin/develop
+
+
+### 对你的commit操作设置关联的用户名
+
+> git config --global user.name "[name]"
+
+### 对你的commit操作设置关联的邮箱地址
+
+> git config --global user.email "[email address]"
