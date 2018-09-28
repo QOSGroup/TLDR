@@ -6,3 +6,4 @@ Too Long Don’t Read!
 * Git
 * GitHub
 * Nginx
+* Amino
