@@ -1,6 +1,6 @@
 # go-amino使用
 
-##简单使用:
+## 简单使用:
 1.创建CodeC实例
 ```
 cdc:= codec.New()
@@ -17,7 +17,7 @@ cdc.RegisterConcrete(&Concrete{}, "pakageName/structName", nil)
 ```
 cdc.Marshal***/Unmarshal***
 ```
-##使用原则:
+## 使用原则:
 1.顶层定义全局codec包，定义codec.go
 ```
 //主要提供New()方法
@@ -46,7 +46,7 @@ func RegisterCodec(cdc *codec.Codec) {
 }
 ```
 
-##特别注意
+## 特别注意
 1.参照tendermint/cosmos既定使用原则
 2.参与序列化/反序列化字段大写字母开头
 3.编解码用统一编码格式(JSON/Binary)，统一编解码方法(JSON/Binary/BinaryBare)
