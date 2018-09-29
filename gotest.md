@@ -20,6 +20,16 @@ ok      git.qoschain.io/QOSGroup/qstars 0.009s
 Launching browser on 192.168.168.199:8000/cover.html
 ```
   在浏览器打开192.168.168.199:8000/cover.html，即可查看结果。
+  
+  忽略.cover目录，该工具会创建.cover目录，防止误将.cover提交到git repo，需要忽略该文件夹
+  ```
+  //打开项目.gitignore，在repo根目录，在合适的位置增加*.cover
+  $vim .gitignore
+  *.cover
+  $git add .gitignore
+  $git commit -m "Ignore .cover directory created by cover analysis tool"
+  $git push
+  ```
 
 ## 注意
   如果单元测试失败，不能运行覆盖率分析，必须跑通单元测试。
