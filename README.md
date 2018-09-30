@@ -7,3 +7,4 @@ Too Long Don’t Read!
 * GitHub
 * Nginx
 * Amino
+* GoTest
