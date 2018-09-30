@@ -3,8 +3,8 @@ Too Long Don’t Read!
 
 ## Includes 
 
-* Git
-* GitHub
-* Nginx
-* Amino
-* GoTest
+* [Git](git.md)
+* [GitHub](github.md)
+* [Nginx](nginx.md)
+* (Amino)[amino.md]
+* (GoTest)[gotest.md]
