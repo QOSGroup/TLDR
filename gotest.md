@@ -17,9 +17,9 @@ PASS
 coverage: 0.0% of statements
 ok      git.qoschain.io/QOSGroup/qstars 0.009s
 
-Launching browser on 192.168.168.199:8000/cover.html
+Launching browser on http://testing.qos.com/unit/cover.html
 ```
-  在浏览器打开192.168.168.199:8000/cover.html，即可查看结果。
+  在浏览器打开http://testing.qos.com/unit/cover.html，即可查看结果。
   
   忽略.cover目录，该工具会创建.cover目录，防止误将.cover提交到git repo，需要忽略该文件夹
   ```
