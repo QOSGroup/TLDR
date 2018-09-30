@@ -9,3 +9,4 @@ Too Long Don’t Read!
 * [Nginx](nginx.md)
 * [Amino](amino.md)
 * [GoTest](gotest.md)
+  * [ct.sh](scripts/ct.sh)
