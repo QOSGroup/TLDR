@@ -3,6 +3,7 @@ Too Long Don’t Read!
 
 ## Includes 
 
+* [LifeGuide](lifeguide.md)
 * [Git](git.md)
   * [github-git-cheat-sheet.pdf](sheets/github-git-cheat-sheet.pdf)
 * [GitHub](github.md)
