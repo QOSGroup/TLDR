@@ -24,7 +24,7 @@
 > git config --global user.email "[email address]"
 
 
-### git的配置文件
+### 配置文件
 
 > /etc/gitconfig  （参数: --system)
 >
