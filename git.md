@@ -31,3 +31,7 @@
 > ~/.gitconfig  （参数: --global)
 >
 > .git/config  （参数: --local)
+
+### 删除远程分支 
+
+> git push origin --delete <BranchName>
