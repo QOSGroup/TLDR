@@ -22,3 +22,12 @@
 ### 对你的commit操作设置关联的邮箱地址
 
 > git config --global user.email "[email address]"
+
+
+### git的配置文件
+
+> /etc/gitconfig  （参数: --system)
+>
+> ~/.gitconfig  （参数: --global)
+>
+> .git/config  （参数: --local)
