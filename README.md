@@ -13,4 +13,5 @@ Too Long Don’t Read!
   * [ct.sh](scripts/ct.sh)
 * Others
   * [vuepress](vuepress.md) 
+  * [move git.qoschian.io to github.com](githubmove.md)
 
