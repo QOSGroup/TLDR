@@ -1,8 +1,6 @@
 # go modules 与 goproxy 使用简介
 
-* go modules
-
-> https://github.com/golang/go/wiki/Modules
+* [go modules](https://github.com/golang/go/wiki/Modules)
 
 * goproxy
 
