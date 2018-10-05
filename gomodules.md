@@ -63,7 +63,7 @@ $GOPATH/pkg/mod/github.com/spf13/viper@v1.0.0
 > export GO111MODULE=on  
 > export GOPROXY=http://ip:port  
 
-* 3 使用 go nodules
+* 3 使用 go modules
 
 > \# 初始化  
 > \# 在已有项目（但不存在go.mod 文件）中执行,或在空目录中执行  
