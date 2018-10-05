@@ -2,11 +2,11 @@
 
 * [go modules](https://github.com/golang/go/wiki/Modules)
 
-* goproxy
+* ecosystem
 
-> https://github.com/goproxyio/goproxy
+  * [goproxy](https://github.com/goproxyio/goproxy)
 
-> https://github.com/gomods/athens/
+  * [athens](https://github.com/gomods/athens/)
 
 ### go modules 简介
 
