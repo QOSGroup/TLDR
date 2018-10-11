@@ -40,7 +40,7 @@
 
 > git config --global push.default upstream
 >
-> git branch -u <remote>/<branch>
+> git branch -u \<remote\>/\<branch\>
 >
 > git branch -vv
 >
