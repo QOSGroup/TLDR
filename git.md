@@ -35,3 +35,10 @@
 ### 删除远程分支 
 
 > git push origin --delete <BranchName>
+
+### 推送本地分支到远程不同名分支
+
+> git config --global push.default upstream
+> git branch -u <remote>/<branch>
+> git branch -vv
+> git push
