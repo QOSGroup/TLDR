@@ -13,5 +13,5 @@ Too Long Don’t Read!
   * [ct.sh](scripts/ct.sh)
 * Others
   * [vuepress](vuepress.md) 
-  * [Migration](githubmove.md)
+  * [migration](githubmove.md)
 
