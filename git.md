@@ -55,3 +55,7 @@
 > git config --global alias.br branch
 >
 > git config --global alias.st status
+
+### 查看所有分支关系图
+
+> git log --graph --decorate --oneline --simplify-by-decoration --all
