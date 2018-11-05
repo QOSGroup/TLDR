@@ -7,7 +7,7 @@ if [ ! -d $testDIR ] ; then
     mkdir $testDIR
 fi
 
-go test -failfast -coverprofile=$testDIR/cover.profile
+go test ./... -failfast -coverprofile=$testDIR/cover.profile
 if [ $? != 0 ]; then
     echo ""
     echo -e "\033[31munittest failed, fix it first\033[0m"
