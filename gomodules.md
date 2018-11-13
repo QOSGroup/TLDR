@@ -59,7 +59,7 @@ $GOPATH/pkg/mod/github.com/spf13/viper@v1.0.0
 * 2 配置环境变量
 
 > export GO111MODULE=on  
-> export GOPROXY=http://192.168.168.176:8081  
+> export GOPROXY=http://192.168.1.176:8081  
 
 * 3 使用 go modules
 
